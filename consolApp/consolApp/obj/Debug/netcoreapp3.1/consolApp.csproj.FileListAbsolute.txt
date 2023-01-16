@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\bin\Debug\netcoreapp3.1\consolApp.exe
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\bin\Debug\netcoreapp3.1\consolApp.deps.json
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\bin\Debug\netcoreapp3.1\consolApp.runtimeconfig.json
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\bin\Debug\netcoreapp3.1\consolApp.runtimeconfig.dev.json
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\bin\Debug\netcoreapp3.1\consolApp.dll
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\bin\Debug\netcoreapp3.1\consolApp.pdb
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\obj\Debug\netcoreapp3.1\consolApp.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\obj\Debug\netcoreapp3.1\consolApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\obj\Debug\netcoreapp3.1\consolApp.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\obj\Debug\netcoreapp3.1\consolApp.AssemblyInfo.cs
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\obj\Debug\netcoreapp3.1\consolApp.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\obj\Debug\netcoreapp3.1\consolApp.dll
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\obj\Debug\netcoreapp3.1\consolApp.pdb
+C:\Users\student\Desktop\zad\MONO-praksa\consolApp\consolApp\obj\Debug\netcoreapp3.1\consolApp.genruntimeconfig.cache
